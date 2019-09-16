@@ -12,3 +12,5 @@ Se aprendio sobre:
 * joined()
 * property observers
 * range operators
+
+![](Project8.gif)
